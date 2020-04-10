@@ -17,12 +17,15 @@ Con el *Simulador de Autobús* usted podrá:
 ### Capturas
 
 - Inicio: Creacion de Autobus y primer pasajero
+
 ![Simulador de Autobús de Pasajeros](screenshot/ss1.png)
 
 
 - Vista del Menu de Opciones
+
 ![Simulador de Autobús de Pasajeros](screenshot/ss2.png)
 
 
 - Vizualizacion de Pasajeros
+
 ![Simulador de Autobús de Pasajeros](screenshot/ss3.png)
